@@ -1,6 +1,7 @@
 CREATE TABLE t_Kristyna_Stefkova_project_SQL_primary_final AS
 SELECT	
 	cpib.name AS name_of_industry,
+	cp.category_code,
 	cpay.value AS payroll_value,
 	cpay.payroll_year,
 	cpc.name AS name_of_food,
