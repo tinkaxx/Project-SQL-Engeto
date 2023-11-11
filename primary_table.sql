@@ -1,17 +1,11 @@
-CREATE TABLE t_Kristyna_Stefkova_project_SQL_primary_final AS
-SELECT	
-	cpib.name AS name_of_industry,
+CREATE TABLE t_Kristyna_Stefkova_project_sql_primary_final AS
+SELECT
 	cp.category_code,
-	cpay.value AS payroll_value,
-	cpay.payroll_year,
-	cpc.name AS name_of_food,
-	cp.value AS food_value,
-	YEAR (cp.date_from) AS year_of_entry
+	cpc.name,
+	YEAR (date_from) AS YEAR,
+	round(avg(value),1) AS average_value
 FROM czechia_price cp
-JOIN czechia_payroll cpay
-	ON cpay.payroll_year = YEAR(cp.date_from)
-JOIN czechia_price_category cpc
+JOIN czechia_price_category cpc 
 	ON cp.category_code = cpc.code
-JOIN czechia_payroll_industry_branch cpib
-	ON cpay.industry_branch_code = cpib.code
-WHERE cpay.value_type_code = 5958;
+GROUP BY category_code, YEAR
+ORDER BY YEAR DESC;
