@@ -1,3 +1,4 @@
+CREATE TABLE t_kristyna_stefkova_project_task_1 AS
 SELECT DISTINCT 
 	tkspspf.industry_branch_code,
 	tkspspf.industry_name,
