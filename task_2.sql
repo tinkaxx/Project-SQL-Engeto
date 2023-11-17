@@ -8,16 +8,13 @@ WHERE food_name IN ('Mléko polotučné pasterované','Chléb konzumní kmínov�
 AND `YEAR`  IN ('2006', '2018')
 ;
 
-SELECT *,
-	   avg(average_wage)
+SELECT 
+	   food_name,
+	   `YEAR`, 
+	   round(avg(average_wage),2) AS AVG_wage,
+	   avg(average_price) AS AVG_price
 FROM t_kristyna_stefkova_project_sql_primary_final tkspspf 
 WHERE food_name IN ('Mléko polotučné pasterované','Chléb konzumní kmínový')
 AND `YEAR`  IN ('2006', '2018')
-GROUP BY payroll_year  ;
+GROUP BY payroll_year, food_name  ;
 
-SELECT *,
-	   avg(average_price)
-FROM t_kristyna_stefkova_project_sql_primary_final tkspspf 
-WHERE food_name IN ('Mléko polotučné pasterované','Chléb konzumní kmínový')
-AND `YEAR`  IN ('2006', '2018')
-GROUP BY  category_code  ;
