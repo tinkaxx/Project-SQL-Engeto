@@ -1,6 +1,3 @@
-SELECT *
-FROM t_kristyna_stefkova_project_sql_primary_final tkspspf 
-WHERE food_name IN ('%mléko%','%chléb%');
 
 SELECT *
 FROM t_kristyna_stefkova_project_sql_primary_final tkspspf 
@@ -8,6 +5,7 @@ WHERE food_name IN ('Mléko polotučné pasterované','Chléb konzumní kmínov�
 AND `YEAR`  IN ('2006', '2018')
 ;
 
+CREATE TABLE t_kristyna_stefkova_project_task_2 AS 
 SELECT 
 	   food_name,
 	   `YEAR`, 
