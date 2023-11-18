@@ -1,3 +1,4 @@
+CREATE TABLE t_kristyna_stefkova_project_task_4 AS  
 SELECT DISTINCT 
 	tkspt.payroll_year,
 	round(avg(tkspt.percentage_salary_increase),2) AS AVG_percentage_salary_increase,
@@ -9,5 +10,6 @@ JOIN t_kristyna_stefkova_project_task_3 tkspt2
 	ON tkspt.payroll_year = tkspt2.`year`
 	AND tkspt.last_year = tkspt2.last_year
 GROUP BY payroll_year 
+ORDER BY price_salary_difference
 ;
 
