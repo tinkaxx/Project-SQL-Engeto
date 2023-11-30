@@ -4,7 +4,7 @@ Jedná se o SQL projekt, který zpracovávám do Datové akademie v Engeto.
 # Zadání projektu
 
 Mým úkolem je odpovědět na výzkumné otázky týkající se dostupnosti základních potravin. Než se pustím do tohoto úkolu, je třeba vypracovat datové podklady, ze kterých budu vycházet při hledání odpovědí na dané otázky. 
-K dispozici mám tabulky poskytující informace o mzdách v různých odvětvích za určité období a také informace o cenách vybraných potravin, dále různé číselníky, které mi pomohou rozklíčovat určité údaje v tabulkách. Dále je možné při zpracování projektu využít informace o zemích na světě, i o jejich ekonomice. 
+K dispozici mám tabulky poskytující informace o mzdách v různých odvětvích za určité období a také informace o cenách vybraných potravin (czechia_payroll, czechia_price), dále různé číselníky, které mi pomohou rozklíčovat určité údaje v tabulkách (czechia_payroll_calculation, czechia_payroll_industry_branch, czechia_payroll_unit, czechia_payroll_value_type, czechia_price_category). K dispozici máme také informace o krajích a okresech ČR (czechia_region, czechia_district). A dále je možné při zpracování projektu využít informace o zemích na světě, i o jejich ekonomice (countries, economies).
 
 # Datové podklady
 
