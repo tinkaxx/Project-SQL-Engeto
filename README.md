@@ -32,7 +32,7 @@ Růst větší než 10 % jsem nenašla. Nejvyšší nárůst byl v roce 2013, v 
 
 ## 5. otázka: Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud vzroste HDP výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem? 
 
-Nelze říci, že by to platilo v každém roce. Zmínila bych rok 2007, kdy HDP vzrostlo oproti roku 2006 o 5,57 %, zároveň vzrostly také ceny potravin o 6,77 % a mzdy o 6,79 %, ceny potravin a mzdy rostly také v roce následujícím. Oproti tomu v roce 2012 došlo k poklesu HDP o 0,79 %, ale ceny potravin i mzdy naopak rostly, zde tvrzení o vlivu HDP na ceny potravin a mezd neplatí. Na základě tabulky t_kristyna_stefkova_project_task_5 tedy nelze dojít k závěru, že růst HDP má vliv na růst cen potravin a mezd v tom samém roce, nebo v roce následujícím. Našla jsem rok, v kterém toto tvrzení platilo, ale zároveň jsou i roky, v kterém toto neplatí. 
+Nelze říci, že by to platilo v každém roce. Zmínila bych rok 2007, kdy HDP vzrostlo oproti roku 2006 o 5,57 %, zároveň vzrostly také ceny potravin o 6,77 % a mzdy o 6,79 %, ceny potravin a mzdy rostly také v roce následujícím. Oproti tomu v roce 2012 došlo k poklesu HDP o 0,79 %, ale ceny potravin i mzdy naopak rostly, zde tvrzení o vlivu HDP na ceny potravin a mzdy neplatí. Na základě tabulky t_kristyna_stefkova_project_task_5 tedy nelze dojít k závěru, že růst HDP má vliv na růst cen potravin a mezd v tom samém roce, nebo v roce následujícím. Našla jsem rok, v kterém toto tvrzení platilo, ale zároveň jsou i roky, v kterém toto neplatí. 
 
 
 
