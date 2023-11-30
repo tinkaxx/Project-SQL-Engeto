@@ -15,7 +15,7 @@ Sekundární tabulka měla obsahovat data o evropských státech, jako populace,
 
 ## 1. otázka: Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
 
-V některých odvětvích mzdy klesaly, největší meziroční pokles byl v roce 2013 v Peněžnictví a pojišťovnictví (-9 %). Mzdy klesaly také v dalších odvětvích. Pokles -4,36 % byl zaznamenám v roce 2009 v Těžbě a dobývání a pokles -4,29 % ve Výrobě a rozvodu elektřiny v roce 2013. Další pokles mezd je patrný z tabulky t_kristyna_stefkova_project_task_1.  
+V některých odvětvích mzdy klesaly, největší meziroční pokles byl v roce 2013 v Peněžnictví a pojišťovnictví (-9 %). Mzdy klesaly také v dalších odvětvích. Pokles -4,36 % byl zaznamenán v roce 2009 v Těžbě a dobývání a pokles -4,29 % ve Výrobě a rozvodu elektřiny v roce 2013. Další pokles mezd je patrný z tabulky t_kristyna_stefkova_project_task_1.  
 
 ## 2. otázka: Kolik je  možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd? 
 
