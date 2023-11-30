@@ -19,11 +19,11 @@ V některých odvětvích mzdy klesaly, největší meziroční pokles byl v roc
 
 ## 2. otázka: Kolik je  možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd? 
 
-První srovnatelné období je rok 2006. V tomto roce je průměrná (hrubá) mzda 20 342 Kč a průměrná cena chleba je 16,1 Kč/kg (je tedy možné si koupit 1263,48 kg chleba). Průměrná cena mléka je 14,4 Kč/l (koupit si lze 1412,63 litrů mléka). Poslední srovnatelné období je rok 2018 a průměrná mzda byla v tomto roce 31 980 Kč. Při průměrné ceně chleba 24,2 Kč/kg je možné si koupit 1321,49 kg a při průměrné ceně mléka 19,8 kč/l je to 1615,15 litrů.
+První srovnatelné období je rok 2006. V tomto roce je průměrná (hrubá) mzda 20 342 Kč a průměrná cena chleba je 16,1 Kč/kg (je tedy možné si koupit 1263,48 kg chleba). Průměrná cena mléka je 14,4 Kč/l (koupit si lze v roce 2006 1412,63 litrů mléka). Poslední srovnatelné období je rok 2018 a průměrná mzda byla v tomto roce 31 980 Kč. Při průměrné ceně chleba 24,2 Kč/kg je možné si koupit 1321,49 kg a při průměrné ceně mléka 19,8 kč/l je to 1615,15 litrů.
 
 ## 3. otázka: Která kategorie potravin zdražuje nejpomaleji?
 
-Z tabulky t_kristyna_stefkova_project_task_3 jsem ve sloupci meziroční procentuální růst zjistila, že všechny průměrné ceny nerostou, ale také klesají. Největší pokles jsem zaznamenala u položky Rajská jablka, a to v roce 2007, kdy tento pokles činil -30,28 %. 
+Z tabulky t_kristyna_stefkova_project_task_3 jsem ve sloupci meziroční procentuální růst zjistila, že všechny průměrné ceny nerostou, ale také klesají. Největší pokles jsem zaznamenala u položky Rajská jablka, a to v roce 2007, kdy tento pokles činil -30,28 %.  Pokud bych hledala hodnotu, která roste nejpomaleji, tak je to položka Pomeranče v roce 2016, kdy byl růst 0,31 %.
 
 ## 4. otázka: Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?
 
@@ -31,7 +31,7 @@ Růst větší než 10 % jsem nenašla. Nejvyšší nárůst byl v roce 2013, v 
 
 ## 5. otázka: Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud vzroste HDP výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem? 
 
-Nelze říci, že by to platilo v každém roce. Zmínila bych rok 2007, kdy HDP meziročně vzrostlo o 5,57 %, zároveň vzrostly také ceny potravin o 6,77 % a mzdy o 6,79 %, ceny potravin a mzdy rostly i v roce následujícím. Oproti tomu v roce 2012 došlo k poklesu HDP o 0,79 %, ale ceny potravin i mzdy naopak rostly. Na základě tabulky t_kristyna_stefkova_project_task_5 nelze dojít k závěru, že růst HDP má vliv na růst cen potravin a mezd v tom samém roce, nebo v roce následujícím. Našla jsem rok, v kterém toto tvrzení platilo, ale zároveň jsou i roky, v kterém toto neplatí. 
+Nelze říci, že by to platilo v každém roce. Zmínila bych rok 2007, kdy HDP meziročně vzrostlo o 5,57 %, zároveň vzrostly také ceny potravin o 6,77 % a mzdy o 6,79 %, ceny potravin a mzdy rostly i v roce následujícím. Oproti tomu v roce 2012 došlo k poklesu HDP o 0,79 %, ale ceny potravin i mzdy naopak rostly, zde tedy tvrzení o vlivu HDP na ceny potravin a mzdy neplatí. Na základě tabulky t_kristyna_stefkova_project_task_5 tedy nelze dojít k závěru, že růst HDP má vliv na růst cen potravin a mezd v tom samém roce, nebo v roce následujícím. Našla jsem rok, v kterém toto tvrzení platilo, ale zároveň jsou i roky, v kterém toto neplatí. 
 
 
 
