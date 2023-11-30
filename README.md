@@ -9,7 +9,7 @@ K dispozici mám tabulky poskytující informace o mzdách v různých odvětví
 # Datové podklady
 
 Abych mohla odpovědět na výzkumné otázky, které popíšu v dalším bodě, je třeba vytvořit primární tabulku, která obsahuje data cen potravin a mezd pro Českou republiku za časové období 2006-2018. Já jsem si nejříve vytvořila jednu pomocnou tabulku s průměrnými cenami a druhou s průměrnými mzdami, které jsem následně spojila do tabulky výsledné (primární). 
-Sekundární tabulka měla obsahovat data o evropských státech, jako populace, gini koeficient a HDP.
+Sekundární tabulka měla obsahovat data o evropských státech, jako populace, gini koeficient a HDP. U vytváření sekundární tabulky jsem narazila na problém, že u položky gini koeficient chybí některé hodnoty. Ale protože s tímto ukazatelem jsem dále nepracovala, nechala jsem to být.
 
 # Výzkumné otázky
 
