@@ -3,7 +3,7 @@ Jedná se o SQL projekt, který zpracovávám do Datové akademie v Engeto.
 
 # Zadání projektu
 
-Mým úkolem je odpovědět na výzkumné otázky týkající se dostupnosti základních potravin. Než se pustím do tohoto úkolu, je třeba vypracovat datové podklady, ze kterých budu vycházet při hledání odpovědí na dané otázky. 
+Mým úkolem je odpovědět na výzkumné otázky týkající se porovnání dostupnosti základních potravin na základě průměrných příjmů za časové období 2006-2018 . Než se pustím do tohoto úkolu, je třeba vypracovat datové podklady, ze kterých budu vycházet při hledání odpovědí na dané otázky. 
 K dispozici mám tabulky poskytující informace o mzdách v různých odvětvích za určité období a také informace o cenách vybraných potravin, dále různé číselníky, které mi pomohou rozklíčovat určité údaje v tabulkách. Dále je možné při zpracování projektu využít informace o zemích na světě, a také o jejich ekonomice. 
 
 # Datové podklady
